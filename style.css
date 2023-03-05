@@ -21,6 +21,7 @@ div.main_text{
     text-align: center;
     font-size: calc(3.5vw + 1vw);
     font-size: calc(3.5vh + 1vh);
+    color:white;
 }
 
 div.img{
